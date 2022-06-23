@@ -1,6 +1,6 @@
 # windows-debloat
 
-To use, download the file onto your desktop, open it up and drag the file named "debloat.ps1". Once you have done that, right click on it and click "Run with powershell". It will start to delete everything by itself and once it is done it will close automatically.
+To use, download the file onto your desktop, open it up and drag the file named "debloat.ps1". Once you have done that, right click on it and click "Run with powershell". It will start to delete everything by itself and once it is done it will close automatically. Restart your pc and you will see the drasitc changes.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
